@@ -1,6 +1,5 @@
 numpy
-gym
 gym[atari]
 scipy
-atari_py
+ptpython
 
